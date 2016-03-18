@@ -8,7 +8,7 @@
 <title>Home page</title>
 </head>
 <body>
-<h1>Welcome to Sandeep Cricket Score Updates</h1>
+<h1>Welcome to Dusty Cricket Score Updates</h1>
 <p>
 ${message}<br/>
 <!-- <a href="${pageContext.request.contextPath}/team/add.html">Add new team</a><br/>
